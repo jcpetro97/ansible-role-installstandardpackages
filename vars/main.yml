@@ -1,0 +1,115 @@
+---
+Ubuntu1804Server:
+  - aptitude
+  - bash-completion
+  - curl
+  - glances
+  - git
+  - htop
+  - multitail
+  - p7zip-full
+  - p7zip
+  - python-apt
+  - tmux 
+  - tree
+  - vim
+  - xfsprogs
+  - xfsdump  
+
+Ubuntu2004Server:
+  - aptitude
+
+Ubuntu1804Desktop:
+  - a2ps
+  - alacarte
+  - alien
+  - aptitude
+  - alpine
+  - arandr
+  - bsd-mailx
+  - clementine
+  - clusterssh
+  - curl
+  - enscript
+  - fail2ban
+  - firefox
+  - filezilla
+  - git
+  - gigolo
+  - gimp
+  - glances
+  - gparted
+  - htop
+  - ipset
+  - iptables-persistent
+  - keepassx
+  - logwatch
+  - openssh-server
+  - p7zip
+  - pdfshuffler
+  - pidgin
+  - remmina
+  - remmina-plugin-nx
+  - remmina-plugin-rdp
+  - remmina-plugin-vnc
+  - rsnapshot
+  - shutter
+  - terminator
+  - tree
+  - vim
+  - vlc
+  - wallch
+  - xfwm4-themes
+  - xfburn
+  - multitail
+  - tmux
+  - exfat-fuse 
+  - exfat-utils
+  - libqt5opengl5
+
+Ubuntu2004Desktop:
+  - a2ps
+
+RaspbianStretch:
+  - htop
+  - tree
+  - git
+  - vim
+  - aptitude
+  - tmux
+  - python-apt
+  - multitail
+  - p7zip-full
+  - p7zip
+  - xfsprogs
+  - xfsdump
+
+RaspbianBuster:
+  - htop
+  - tree
+  - git
+  - vim
+  - aptitude
+  - tmux
+  - python-apt
+  - multitail
+  - p7zip-full
+  - p7zip
+  - xfsprogs
+  - xfsdump
+
+Centos7:
+  - curl
+  - glances
+  - git
+  - htop
+  - bash-completion
+  - bash-completion-extras
+  - multitail
+  - p7zip
+  - p7zip-plugins
+  - tmux 
+  - tree
+  - vim-enhanced
+  - xfsprogs
+  - xfsdump  
