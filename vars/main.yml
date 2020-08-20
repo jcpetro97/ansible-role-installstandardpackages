@@ -28,7 +28,6 @@ Ubuntu1804Desktop:
   - arandr
   - bsd-mailx
   - clementine
-  - clusterssh
   - curl
   - enscript
   - fail2ban
@@ -40,8 +39,6 @@ Ubuntu1804Desktop:
   - glances
   - gparted
   - htop
-  - ipset
-  - iptables-persistent
   - keepassx
   - logwatch
   - openssh-server
@@ -58,7 +55,6 @@ Ubuntu1804Desktop:
   - tree
   - vim
   - vlc
-  - wallch
   - xfwm4-themes
   - xfburn
   - multitail
