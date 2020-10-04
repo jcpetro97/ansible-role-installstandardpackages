@@ -65,6 +65,33 @@ Ubuntu1804Desktop:
 
 Ubuntu2004Desktop:
   - a2ps
+  - alacarte
+  - alien
+  - alpine
+  - aptitude
+  - arandr
+  - bsd-mailx
+  - clamav
+  - clamtk
+  - curl
+  - dash
+  - enscript 
+  - ethtool
+  - exfat-fuse
+  - exfat-utils
+  - git
+  - glances
+  - gparted
+  - htop
+  - iftop
+  - nethogs
+  - p7zip
+  - smartmontools
+  - tree
+  - vim
+  - xfburn
+  - xfsprogs
+  - xfwm4-themes
 
 RaspbianStretch:
   - htop
