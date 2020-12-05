@@ -91,7 +91,6 @@ Ubuntu2004Desktop:
   - vim
   - xfburn
   - xfsprogs
-  - xfwm4-themes
 
 RaspbianStretch:
   - htop
