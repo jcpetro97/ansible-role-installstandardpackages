@@ -18,6 +18,7 @@ Ubuntu1804Server:
 
 Ubuntu2004Server:
   - aptitude
+  - git
 
 Ubuntu1804Desktop:
   - a2ps
