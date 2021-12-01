@@ -1,0 +1,13 @@
+---
+- name: Debian | Install Standard Packages for a Server
+  ansible.builtin.apt:
+    name: "{{UbuntuServer}}"
+    state: present
+  when: SystemType|default('Server') == "Server"
+
+
+- name: Debian | Install Standard Packages for a Desktop
+  ansible.builtin.apt:
+    name: "{{UbuntuDesktop}}"
+    state: present
+  when: SystemType|default('Server') == "Desktop"
