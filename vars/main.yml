@@ -23,29 +23,46 @@ UbuntuDesktop:
   - alpine
   - aptitude
   - arandr
+  - asciinema
   - bsd-mailx
+  - cheese-common
   - clamav
   - clamtk
+  - clementine
   - curl
   - dash
   - enscript 
   - ethtool
   - exfat-fuse
   - exfatprogs
+  - filezilla
   - git
   - glances
   - gparted
   - htop
   - iftop
+  - keepassx
   - nethogs
   - p7zip
   - p7zip-full
+  - parted
+  - pdfshuffler
+  - rsnapshot
+  - shutter
   - smartmontools
+  - sshpass
   - tree
   - vim
+  - vlc
+  - xfwm4-theme-breeze
   - xfburn
   - xfsprogs
   - xfsdump
+  - xscreensaver
+  - xscreensaver-data
+  - xscreensaver-data-extra
+  - xscreensaver-gl
+  - xscreensaver-gl-extra
 
 
 RedHat:
