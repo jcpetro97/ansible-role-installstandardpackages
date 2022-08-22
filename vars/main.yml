@@ -51,6 +51,7 @@ UbuntuDesktop:
   - shutter
   - smartmontools
   - sshpass
+  - tmux
   - tree
   - vim
   - vlc
