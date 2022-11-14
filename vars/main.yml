@@ -46,7 +46,8 @@ UbuntuDesktop:
   - p7zip
   - p7zip-full
   - parted
-  - pdfshuffler
+  - pdfarranger
+  - remmina
   - rsnapshot
   - shutter
   - smartmontools
@@ -55,6 +56,8 @@ UbuntuDesktop:
   - tree
   - vim
   - vlc
+  - wireguard
+  - wireguard-tools
   - xfwm4-theme-breeze
   - xfburn
   - xfsprogs
