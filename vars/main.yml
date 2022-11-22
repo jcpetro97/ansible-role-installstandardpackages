@@ -1,20 +1,33 @@
 ---
 
 UbuntuServer:
-  - aptitude
-  - git
   - acl
+  - alpine
+  - aptitude
+  - bsd-mailx
   - curl
+  - dash
+  - enscript 
+  - ethtool
+  - exfat-fuse
+  - exfatprogs
+  - git
   - glances
   - htop
-  - multitail
-  - p7zip-full
+  - iftop
+  - nethogs
   - p7zip
-  - tmux 
+  - p7zip-full
+  - remmina
+  - rsnapshot
+  - smartmontools
+  - tmux
   - tree
   - vim
+  - wireguard
+  - wireguard-tools
   - xfsprogs
-  - xfsdump  
+  - xfsdump
 
 UbuntuDesktop:
   - a2ps
